@@ -1,0 +1,9 @@
+218843391f2a3ac61921542dc69570cd *DESCRIPTION
+9c25e1cdc3b5122842a6a70fab49a522 *LICENSE
+c256b348a8e8640b2451e738a1d5bf10 *NAMESPACE
+07c919ef2146edf9e20562ac6a72cea9 *R/preknit_posthtmlrender.R
+933f51bd659a006059619a8000f69be8 *man/eval_src.Rd
+a21a2c3543870b90d22094083391a19b *man/post_html_render_proc.Rd
+01c7b2632813a98efa0530e0f7107787 *man/pre_knit_proc.Rd
+a53d83bf6413b75aa68771e52533d1fc *man/preknit_knit_render_postrender.Rd
+faa1a0f59f1be0583257f1d957405a58 *man/run_code.Rd
